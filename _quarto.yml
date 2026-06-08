@@ -15,7 +15,7 @@ book:
       repo: nhs-oa-community/NHSOA-way
   chapters:
     - index.qmd
-    - nhsr-vision.qmd
+    - nhsoa-vision.qmd
     - part: get-involved.qmd
       chapters:
         - Coffee_and_code.qmd
