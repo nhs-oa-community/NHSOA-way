@@ -24,7 +24,7 @@ book:
     - nhsr-vision.qmd
     - part: get-involved.qmd
       chapters:
-        - Coffee_and_code.qmd
+        - coffee_and_code.qmd
         - training.qmd
         - webinars.qmd
         - workshops.qmd
@@ -34,7 +34,7 @@ book:
     - part: our_ways.qmd
       chapters:
         - nhsr-committee.qmd
-        - code-of-conduct.qmd
+        - CODE_OF_CONDUCT.qmd
         - nhsr-fellows.qmd
         - style-guides.qmd
         - accessibility.qmd
