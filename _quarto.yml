@@ -6,22 +6,16 @@ project:
 resources:
   - CNAME
 book:
-  # If you are forking our repo to develop content -- whether for NHS-R Community
-  # or your own purposes -- please disable our Google Analytics tag during development.
-  # If building your own site, replace our GA tag with your own GA tag before deployment.
-  # This will prevent your activity being tracked and counted in our analytics dashboard.
-  # Thank you!
-  google-analytics: "G-3LD2BMRRL4"
-  title: "NHSR-way"
-  author: "NHS-R Community"
+  title: "NHSOA-way"
+  author: "NHS-OA Community"
   date: last-modified
   comments:
     hypothesis: true
     giscus:
-      repo: nhs-r-community/NHSR-way
+      repo: nhs-oa-community/NHSOA-way
   chapters:
     - index.qmd
-    - nhsr-vision.qmd
+    - nhsoa-vision.qmd
     - part: get-involved.qmd
       chapters:
         - Coffee_and_code.qmd
@@ -33,23 +27,23 @@ book:
         - code_contribution.qmd
     - part: our_ways.qmd
       chapters:
-        - nhsr-committee.qmd
+        - nhsoa-committee.qmd
         - code-of-conduct.qmd
-        - nhsr-fellows.qmd
+        - nhsoa-fellows.qmd
         - style-guides.qmd
         - accessibility.qmd
 
   page-footer:
     left: |
-      NHS-R Way by the NHS-R Community
+      NHS-OA Way by the NHS-OA Community
       
-      NHS-R Community makes all of their materials publicly available under open source licenses
+      NHS-OA Community makes all of their materials publicly available under open source licenses
     right: |
       This unofficial book was built with <a href="https://quarto.org/">Quarto</a>.
-  repo-url: https://github.com/nhs-r-community/NHSR-way/
+  repo-url: https://github.com/nhs-oa-community/NHSOA-way/
   repo-branch: main
   repo-actions: [edit, issue]
-  site-url: https://nhsrway.nhsrcommunity.com/
+  site-url: https://nhsoa-way.nhsoa.co.uk/
 
 format:
   html:
