@@ -8,12 +8,16 @@ We host some regular training courses that are very popular. These are:
 - [**Shiny for Beginners**](#shiny)
 - [**Introduction to Quarto**](#intro-quarto)
 
-All course materials are freely available through our [GitHub](https://github.com/nhs-r-community).
+All course materials are freely available through our [GitHub](https://github.com/nhs-oa-community).
 Use the links above to skip to the relevant 'guide for attendees' section.
 
 ## Where to do the course?
 
-With these courses, you need to have the relevant software and a place to store the files. Institutional rules and firewalls may, in some cases, prevent you from doing this on your work computer. For that reason, we often provide training using Posit Cloud - an online space you can log into that already has most of the relevant tools. You are also welcome to complete the course on your work computer if you can, or on a personal computer. To help you explain to your work's IT department about what tools you need on your machine and why, see our [Statement on Tools book](https://nhsrcommunity.com/books/posts/statement-on-tools/) for guidance.
+With these courses, you need to have the relevant software and a place to store the files. 
+Institutional rules and firewalls may, in some cases, prevent you from doing this on your work computer. 
+For that reason, we often provide training using Posit Cloud - an online space you can log into that already has most of the relevant tools. 
+You are also welcome to complete the course on your work computer if you can, or on a personal computer. 
+To help you explain to your work's IT department about what tools you need on your machine and why, see our [Statement on Tools book](https://nhsrcommunity.com/books/posts/statement-on-tools/) for guidance.
 
 ### If you are using Posit Cloud
 
@@ -92,11 +96,11 @@ However, there are alternatives that are detailed in each course under the heade
 
 ### Viewing published slides
 
-<https://intro-r-rstudio.nhsrcommunity.com/>
+<https://intro-r-rstudio.nhsoa.uk/>
 
 ### Installing packages
 
-Installing packages will be part of the course but the instructions can be followed in the pre-work from these [course slide instructions](https://intro-r-rstudio.nhsrcommunity.com/session-packages.html#/packages):
+Installing packages will be part of the course but the instructions can be followed in the pre-work from these [course slide instructions](https://intro-r-rstudio.nhsoa.uk/session-packages.html#/packages):
 
 ```{r}
 #| eval: false
@@ -113,7 +117,7 @@ As well as the packages for the course you will also need to install the package
 #| eval: false
 
 # install.packages(c("usethis", "here"))
-usethis::use_course("nhs-r-community/intro_r_data", destdir = here::here()) 
+usethis::use_course("nhs-oa-community/intro_r_data", destdir = here::here()) 
 
 ```
 
@@ -122,7 +126,7 @@ usethis::use_course("nhs-r-community/intro_r_data", destdir = here::here())
 Connect directly from GitHub repository by clicking on the blue button for `New Project` in the top right from the main screen. 
 From the drop down that appears select `New Project from Git Repository`, then copy the following URL into the text which can be found in the particular workshop sections:
 
-`https://github.com/nhs-r-community/intro_r_data`
+`https://github.com/nhs-oa-community/intro_r_data`
 
 ![](img/cloud-github-conn.PNG){fig-alt="Screenshot of Posit Cloud with the pop up with the box \"URL of your Git Repository\""}
 
@@ -131,7 +135,8 @@ From the drop down that appears select `New Project from Git Repository`, then c
 ::: {.callout-note collapse="false" appearance="default" icon="true"}
 ## Not a necessary step! 
 
-All the slides are published through GitHub to a redirected URL so should be available to all organisations. However, if you would still like to get copies then follow this section.
+All the slides are published through GitHub to a redirected URL so should be available to all organisations. 
+However, if you would still like to get copies then follow this section.
 
 Note that the files are html for greater accessibility and we do not provide the slides as PowerPoint or pdf.
 :::
@@ -166,7 +171,7 @@ As well as the packages for the course you will also need to install the package
 #| eval: false
 
 # install.packages(c("usethis", "here"))
-usethis::use_course("nhs-r-community/intermediate_R_training", destdir = here::here()) 
+usethis::use_course("nhs-oa-community/intermediate_R_training", destdir = here::here()) 
 ```
 
 ### Get data - Posit Cloud
@@ -174,21 +179,21 @@ usethis::use_course("nhs-r-community/intermediate_R_training", destdir = here::h
 Connect directly from the GitHub repository by clicking on the blue button for `New Project` in the top right from the main screen. 
 From the drop down that appears select `New Project from Git Repository`, then copy the following URL into the text which can be found in the particular workshop sections:
 
-`https://github.com/nhs-r-community/intermediate_R_training`
+`https://github.com/nhs-oa-community/intermediate_R_training`
 
 ![](img/cloud-github-conn.PNG){fig-alt="Screenshot of Posit Cloud with the pop up with the box \"URL of your Git Repository\""}
 
-Course scripts are available on GitHub <https://github.com/nhs-r-community/intermediate_R_training/tree/main>
+Course scripts are available on GitHub <https://github.com/nhs-oa-community/intermediate_R_training/tree/main>
 
 ## Introduction to Git and GitHub using R course materials {#intro-git}
 
 ### Viewing published slides
 
-<https://intro-git-github.nhsrcommunity.com/>
+<https://intro-git-github.nhsoa.uk/>
 
 ### Installing packages
 
-Follow the [course slide](https://intro-git-github.nhsrcommunity.com/session-prework.html#/install-packages).
+Follow the [course slide](https://intro-git-github.nhsoa.uk/session-prework.html#/install-packages).
 
 ### GitHub account
 
@@ -201,7 +206,7 @@ To use GitHub you will need to:
 
 *This is not necessary for the course*
 
-To download all the files (including the slides) then on the main GitHub repository <https://github.com/nhs-r-community/intro-git-github#introduction-to-git-and-github> follow the instructions on [downloading data](#step-two).
+To download all the files (including the slides) then on the main GitHub repository <https://github.com/nhs-oa-community/intro-git-github#introduction-to-git-and-github> follow the instructions on [downloading data](#step-two).
 
 ---- 
 
@@ -209,7 +214,7 @@ To download all the files (including the slides) then on the main GitHub reposit
 
 ### Viewing published slides
 
-<https://intro-quarto.nhsrcommunity.com/>
+<https://intro-quarto.nhsoa.uk/>
 
 ### Installing packages
 
@@ -218,7 +223,7 @@ The following packages are used which are not on CRAN and so require {remotes} (
 ``` r
 install.packages("remotes")
 
-remotes::install_github("nhs-r-community/NHSRdatasets")
+remotes::install_github("nhs-oa-community/NHSRdatasets")
 remotes::install_github("matt-dray/quartostamp")
 ```
 
@@ -237,7 +242,7 @@ As well as the packages for the course you will also need to install the package
 
 # install.packages("usethis", "here")
 
-usethis::use_course("nhs-r-community/intro_quarto_data", destdir = here::here()) 
+usethis::use_course("nhs-oa-community/intro_quarto_data", destdir = here::here()) 
 
 ```
 
@@ -248,7 +253,7 @@ From the drop down that appears select `New Project from Git Repository`, then c
 
 ![](img/cloud-github-conn.PNG){fig-alt="Screenshot of Posit Cloud with the pop up with the box \"URL of your Git Repository\""}
 
-`https://github.com/nhs-r-community/intro_quarto_data`
+`https://github.com/nhs-oa-community/intro_quarto_data`
 
 ### Downloading all course material
 
@@ -263,7 +268,7 @@ Using the same process as for `Downloading files` above you can download these t
 
 ### Viewing published slides
 
-<https://shiny-beginners.nhsrcommunity.com/>
+<https://shiny-beginners.nhsoa.uk/>
 
 ### Installing packages
 
@@ -277,11 +282,11 @@ install.packages(c("tidyverse", "shiny", "bslibs"))
 
 *This is not necessary for the course*
 
-To download all the files (including the slides) then on the main GitHub repository <https://github.com/nhs-r-community/shiny-beginners> follow the instructions on [downloading data](#step-two).
+To download all the files (including the slides) then on the main GitHub repository <https://github.com/nhs-oa-community/shiny-beginners> follow the instructions on [downloading data](#step-two).
 
 ## Workshop confirmation emails
 
-The NHS-R Community confirmation email will include:
+The NHS-OA Community confirmation email will include:
 
 -   the link to the workshop
 -   a calendar invitation

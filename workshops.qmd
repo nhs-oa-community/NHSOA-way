@@ -4,7 +4,7 @@ To volunteer any workshops please contact [the core development team](#contact-u
 
 ## Introduction to R and R Studio
 
-NHS-R Community host volunteers running the [Introduction to R and R Studio](#training) course once a month virtually. 
+NHS-OA Community host volunteers running the [Introduction to R and R Studio](#training) course once a month virtually. 
 This usually is on the 3rd Wednesday of the month and is over two half days but is flexible to the availability of the person leading the workshop.
 
 Co-hosts can also attend and assist with:
