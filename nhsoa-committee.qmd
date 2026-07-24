@@ -68,7 +68,7 @@ Support the establishment and management of subcommunities.
 Working group meetings to be held at least every month for one hour with minutes 
 to be shared publicly on the NHS-OA Community GitHub. 
 
-Meetings will increase in frequency as determined by the group, particularly in 
+The frequency of meetings will be as determined by the group, particularly in 
 preparation for large events like conferences.
 
 ## Minutes
