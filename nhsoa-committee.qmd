@@ -35,7 +35,7 @@ Community at a minimum of once a month.
 The committee will comprise volunteer representatives of the wider community 
 including NHS, central government, local government, public sector, voluntary, 
 charities and academia. 
-Whilst no one will be precluded from joining who is not currently employed by 
+Whilst no one will be prevented from joining who is not currently employed by 
 any of these organisations it is expected that individuals are mindful of the 
 purpose of NHS-OA Community to promote the use of open-source data science tools 
 within these organisations specifically.
