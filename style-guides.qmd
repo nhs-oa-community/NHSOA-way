@@ -2,7 +2,9 @@
 
 # Style Guide for text
 
-To ensure that text like books, websites and blogs can be read easily by everyone, including screen readers and non-native English speakers, we have compiled a set of guidelines to keep a consistent style.
+To ensure that text like books, websites and blogs can be read easily by everyone, 
+including screen readers and non-native English speakers, we have compiled a set 
+of guidelines to keep a consistent style.
 
 As recommended in the [_The Turing Way_](https://the-turing-way.netlify.app/community-handbook/style.html#) we follow the [GOV.UK guidance](https://www.gov.uk/guidance/content-design/writing-for-gov-uk) to improve accessibility.
 
@@ -27,7 +29,7 @@ There is no one alive who is youer than you.
 
 ## Opinions are welcome, but ...
 
-_The NHS-R Community Way_ book is intended to be only *lightly* opinionated.
+_The NHS-OA Community Way_ book is intended to be only *lightly* opinionated.
 Whilst more opinionated content is allowed, such content should be clearly marked.
 The best way to do this is by displaying it in a quote box.
 This can be done by either prefixing every line with the greater than symbol `>`.
@@ -138,7 +140,7 @@ and:
 
 ## Licences to use
 
-NHS-R Community repositories are licenced under [MIT](https://opensource.org/license/mit) for code based projects like Shiny apps and packages:
+NHS-OA Community repositories are licenced under [MIT](https://opensource.org/license/mit) for code based projects like Shiny apps and packages:
 
 >the MIT License is a permissive software license that places few restrictions of reuse. Users of software using an MIT License are permitted to use, copy, modify, merge publish, distribute, sublicense and sell copies of the software.
 
@@ -156,58 +158,38 @@ Creative Commons licences are to be avoided for software (by implication code) d
 
 ## Copyright
 
-Copyright is held by a person or a legal entity and it should be noted that NHS-R Community is not a legal entity.
-NHS-R Community is currently hosted by The Strategy Unit, however, most contributors to NHS-R Community work do so under their own organisation's time or even their own time and so will copyright would be to their employer or themselves.
+Copyright is held by a person or a legal entity and it should be noted that NHS-OA Community is not a legal entity.
+NHS-OA Community is currently hosted by The Strategy Unit, however, most contributors to NHS-OA Community work do so under their own organisation's time or even their own time and so will copyright would be to their employer or themselves.
 
-Discussions are ongoing to the use of Crown Copyright (with corresponding licences of [OGL](https://en.wikipedia.org/wiki/Open_Government_Licence)), however, this may require regular submissions of the work with this copyright.
+Where possible we use Crown Copyright
 
 ## {styler}, {lintr} packages and tidyverse Style Guide
 
-It is highly recommended that code that is produced for and by NHS-R Community has {styler} applied to it as detailed in the [R for Data Science (2nd Edition)](https://r4ds.hadley.nz/workflow-style) and the [tidyverse style guide](https://style.tidyverse.org/index.html?q=styler#welcome).
+It is highly recommended that code that is produced for and by NHS-OA Community has {styler} applied to it as detailed in the [R for Data Science (2nd Edition)](https://r4ds.hadley.nz/workflow-style) and the [tidyverse style guide](https://style.tidyverse.org/index.html?q=styler#welcome).
 
 The use of the package {lintr} is also highly recommended and can show particular style issues that may not be automatically corrected through using {styler}.
 
-
-# Branding
-
-## Logo
-
-The logo incorporates the [R logo](https://commons.wikimedia.org/wiki/File:R_logo.svg) available under the Creative Commons Attribution-Share Alike 4.0 International licence and is available in png and svg formats through the [assets repository](https://github.com/nhs-r-community/assets/tree/main/logo).
-
-The NHS-R logo has been in use since 2018.
-
-## Colour
-
-The NHS-R logo uses hex colours:
-
-NHS-R Blues #215FAB, #2965AE  
-NHS-R Greys #9B9CA3, #B3B4B6  
-
-These colours do not appear in the [NHS brand colours](https://www.england.nhs.uk/nhsidentity/identity-guidelines/colours/) or [NHS Digital Service manual](https://service-manual.nhs.uk/design-system/styles/colour) (includes Sass variables).
-
-Colours for NHS-R Community outputs like the website, slides and themes are based on the NHS brand colours listed and used on the OGL v3.0 licence.
-
 ### Themes
 
-- R package [{NHSRtheme}](https://github.com/nhs-r-community/NHSRtheme) with NHS colour themes
-- [Quarto report NHS theme](https://github.com/nhs-r-community/quarto-report-nhs-theme)
-- [Quarto NHS theme](https://github.com/nhs-r-community/quarto-nhs-theme)
+- R package [{NHSRtheme}](https://github.com/nhs-oa-community/NHSRtheme) with NHS colour themes
+- [Quarto report NHS theme](https://github.com/nhs-oa-community/quarto-report-nhs-theme)
+- [Quarto NHS theme](https://github.com/nhs-oa-community/quarto-nhs-theme)
 
-The [assets GitHub repository](https://github.com/nhs-r-community/assets) holds the NHS-R Community logo and `_brand.yml ` which can be used for Quarto products and Shiny.
+The [assets GitHub repository](https://github.com/nhs-r-community/assets) holds the NHS-OA Community logo and `_brand.yml ` which can be used for Quarto products and Shiny.
 More information can be found on the [brand.yml](https://posit-dev.github.io/brand-yml/) page.
 
 ## Typography
 
 Where possible all other guidance from the [NHS Service Manual](https://service-manual.nhs.uk/design-system/styles/typography) is followed.
 
-NHS-R Community does not use the NHS Frutiger font as this is not an official website and would require additional code to be used which not every contributor would have access to.
+NHS-OA Community does not use the NHS Frutiger font as this is not an official website and would require additional code to be used which not every contributor would have access to.
 Code is available in the `_brand.yml` but is commented out and so will not run.
 
 Arial is used in all outputs following NHS guidance of using Arial where Frutiger is not available.
 
 # READMEs in repositories
 
-As standard all NHS-R GitHub repository READMEs should include the following text: 
+As standard all NHS-OA GitHub repository READMEs should include the following text: 
 
 ```
 # Installation 
@@ -226,7 +208,7 @@ remotes::install_github("nhs-r-community/name-of-package")
 ## Contributing
 
 Please see our 
-[guidance on how to contribute](https://tools.nhsrcommunity.com/contribution.html).
+[guidance on how to contribute](https://tools.nhsoa.uk/contribution.html).
 
 This project is released with a Contributor [Code of Conduct](./CODE_OF_CONDUCT.md). 
 By contributing to this project, you agree to abide by its terms.
@@ -243,7 +225,7 @@ you have experienced.
 To create a code of conduct file use the code from the {usethis} package:
 
 ```
-use_code_of_conduct(contact = "nhs.rcommunity@nhs.net")
+use_code_of_conduct(contact = "openanalytics.community")
 ```
 
 which generates a file `CODE_OF_CONDUCT.md`.

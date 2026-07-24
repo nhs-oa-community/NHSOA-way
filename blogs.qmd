@@ -1,7 +1,7 @@
 # Blogs ✍ {#blogs .unnumbered}
 
 
-Tell us about your career, your work, your favourite packages, your R or open-source based journey, or anything you think the community would be interested in!
+Tell us about your career, your work, your favourite packages, your open-source journey, or anything you think the community would be interested in!
 
 We'd love to receive blogs for the website and these can be emailed to [openanalytics.community@nhs.net](mailto:openanalytics.community@nhs.net).
 

@@ -182,7 +182,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at nhs.rcommunity@nhs.net. 
+reported to the community leaders responsible for enforcement at openanalytics.community@nhs.net. 
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -236,13 +236,14 @@ community.
 
 ## Feedback
 
-This Code of Conduct is not intended as a static set of rules by which everyone must abide. Rather, you are invited to make suggestions for updates or clarifications by making a pull request to this document on GitHub.
+This Code of Conduct is not intended as a static set of rules by which everyone must abide. 
+Rather, you are invited to make suggestions for updates or clarifications by making a pull request to this document on GitHub.
 
 # Incident Reporting Guidelines
 
 ## Contact points
 
-If you feel able to, please contact [our inbox](nhs.rcommunity@nhs.net) or email [claire.welsh8\@nhs.net](mailto:claire.welsh@nhs.net).
+If you feel able to, please contact [our inbox](mailto:openanalytics.community@nhs.net) or email [claire.welsh8\@nhs.net](mailto:claire.welsh@nhs.net).
 
 ## Alternate contact points
 
@@ -258,7 +259,6 @@ If you believe someone is in physical danger, please contact the appropriate eme
 
 The Code of Conduct committee is:
 
--   [Zoë Turner: zoe.turner3\@nhs.net (On secondment)]{style="colour:grey;"}
 -   Chris Beeley: chris.beeley1\@nhs.net
 -   Claire Welsh: claire.welsh8\@nhs.net
 
