@@ -1,13 +1,13 @@
-# NHS-R Way book
+# OA Way book
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This is the host repository for the NHS-R Community way book which essentially 
+This is the host repository for the NHS-OA Community way book which essentially 
 documents the community and its activities.
 
-This book is published through [GitHub](https://nhs-r-community.github.io/NHSR-way/) 
-and [NHS-R Community's url](https://nhsrway.nhsrcommunity.com/) as some Virtual 
+This book is published through [GitHub](https://nhs-oa-community.github.io/NHSOA-way/) 
+and [NHS-OA Community's url](https://nhsrway.nhsoa.uk/) as some Virtual 
 Private Networks block sites from GitHub.
 
 ## Contributing

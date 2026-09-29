@@ -72,7 +72,7 @@ VPNs sometimes do work but block parts of the R functionality, this is particula
 :::
 
 If you are using your own computer please ensure you have the **latest** versions of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed. 
-Technical guidance on which programs are required and how to get those installed can be found in the NHS-R Community [Statement on Tools](https://tools.nhsrcommunity.com/technical-r.html) book.
+Technical guidance on which programs are required and how to get those installed can be found in the NHS-OA Community [Statement on Tools](https://tools.nhsrcommunity.com/technical-r.html) book.
 
 It is important to have the latest R installed as older versions have had issues when installing '{tidyverse}' packages. 
 Errors may come up saying that packages like `{broom}` or `{readr}` cannot be installed but even when this has been installed separately there continue to be other errors. 

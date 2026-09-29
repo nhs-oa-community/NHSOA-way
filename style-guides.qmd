@@ -130,7 +130,7 @@ Further information on the types of licences and how to get the text required fo
 
 ## Language
 
-Following the [GDS Way](https://gds-way.cloudapps.digital/manuals/licensing.html#language) the NHS-R Community Way will:
+Following the [GDS Way](https://gds-way.cloudapps.digital/manuals/licensing.html#language) the NHS-OA Community Way will:
 
 >When using a proper name, use the appropriate spelling for that thing (for example the MIT License.)
 
@@ -175,7 +175,7 @@ The use of the package {lintr} is also highly recommended and can show particula
 - [Quarto report NHS theme](https://github.com/nhs-oa-community/quarto-report-nhs-theme)
 - [Quarto NHS theme](https://github.com/nhs-oa-community/quarto-nhs-theme)
 
-The [assets GitHub repository](https://github.com/nhs-r-community/assets) holds the NHS-OA Community logo and `_brand.yml ` which can be used for Quarto products and Shiny.
+The [assets GitHub repository](https://github.com/nhs-oa-community/assets) holds the NHS-OA Community logo and `_brand.yml ` which can be used for Quarto products and Shiny.
 More information can be found on the [brand.yml](https://posit-dev.github.io/brand-yml/) page.
 
 ## Typography
@@ -201,7 +201,7 @@ You can install the current version of {name of package} from GitHub with:
 #| echo: fenced
 
 # install.packages("remotes")
-remotes::install_github("nhs-r-community/name-of-package")
+remotes::install_github("nhs-oa-community/name-of-package")
 
 ```
 
