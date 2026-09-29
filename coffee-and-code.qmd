@@ -45,14 +45,15 @@ the open-source movement within the healthcare sector.
 
 ## How to Join
 
-- Frequency: Sessions usually happen every weeks, rotating between different days 
+- Frequency: Sessions usually happen every 2 weeks, rotating between different days 
 (Wednesdays & Thursdays) to ensure people with different shift patterns or 
 part-time schedules can attend.
 - Booking: You don't usually need to "book" a ticket in the traditional sense, 
-but you can sign up via the NHS-OA Community Page to get the MS Teams calendar 
-invite and the .ics file.
-- Slack: Much of the follow-up and resource sharing happens on the NHS-OA 
-Community Slack channel, which is a great place to stay connected between sessions.
+but you can sign up via the [NHS-OA Community Page](nhsoa.uk/coffee_coding/coffee-and-coding.html) to get the MS Teams calendar 
+invite and the calendar file.
+- Slack: Much of the follow-up and resource sharing happens on the [NHS-OA 
+Community Slack](https://nhsoacommunity.slack.com) channel, which is a great place to stay connected between sessions.
+
 Why go?
 
 If you are an analyst in the NHS, it’s one of the best ways to break out of your 
@@ -66,4 +67,4 @@ to support patient care.
 
 ## Dates of upcoming sessions
 To see the dates of upcoming Coffee & Code sessions and to sign up to attend
-please see the [events](/events/events.qmd) page.
+please see the [events](nhsoa.uk/events/events.html) page.
