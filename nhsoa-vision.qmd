@@ -20,7 +20,7 @@ Better collaboration between R users working in academia and those in the NHS wo
 
 ## Training
 
-The NHS-OA Community has developed/is developing training, with many of the workshops being made available on the NHS-OA Community YouTube channel and course material available on its [GitHub](https://github.com/nhs-r-community). 
+The NHS-OA Community has developed/is developing training, with many of the workshops being made available on the NHS-OA Community YouTube channel and course material available on its [GitHub](https://github.com/nhs-oa-community). 
 
 ## Development 
 

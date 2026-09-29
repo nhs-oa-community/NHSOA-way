@@ -13,7 +13,7 @@ Co-hosts can also attend and assist with:
 -   any technical issues with the Host leaving the call (if a Host has a power cut for example and leaves the meeting, it closes for everyone) and
 -   it can be agreed between the host and co-host to share sections of the training.
 
-[Materials](#training) are available in a chapter form from NHS-R Community GitHub to allow people the flexibility of what to cover in a session according to the time available. 
+[Materials](#training) are available in a chapter form from NHS-OA Community GitHub to allow people the flexibility of what to cover in a session according to the time available. 
 There is enough content for 3 half days, however, most often only 2 half days (or 1 full day) is volunteered.
 
 These courses are very popular and are often fully subscribed and have a waiting list. 

@@ -39,7 +39,7 @@ space on the event anyone is welcome to get involved!
 This community is what we decide to make it - so come and help us shape everything 
 from our ethos and aims to our code and public image! 
 Those who make significant contributions to the community can apply to show off 
-this commitment to the world by becoming an NHS-R Community Fellow! You could 
+this commitment to the world by becoming an NHS-OA Community Fellow! You could 
 contribute:
 
 - To our [code base](#code-contribution)
