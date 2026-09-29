@@ -1,0 +1,864 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NHSOA-way",
+    "section": "",
+    "text": "Welcome\nWelcome to the NHS-OA Community Way book for the NHS-OA Community based on The Turing Way guides and Community Handbook. Like The Turing Way, this is an open source, open collaboration, and community-driven project. We are called NHS-OA Community but our contributors come from Local Authorities, Civil Service, Public Sector, Academia, Voluntary Sector, Charities and as individuals with no organisational connection. Our goal is to promote open source code other free and open source data science tools - and to do this in an open way by supporting and promoting open code sharing which includes other media content like videos of our workshops and conferences.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#contact-us",
+    "href": "index.html#contact-us",
+    "title": "NHSOA-way",
+    "section": "Contact us",
+    "text": "Contact us\nThe NHS-OA Community can be found on Slack and the core development team through the email openanalytics.community@nhs.net.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "nhsoa-vision.html",
+    "href": "nhsoa-vision.html",
+    "title": "NHS-OA vision",
+    "section": "",
+    "text": "Training\nAs a community, our overarching aim is to promote the use of open code and analytics in health and care.\nThe NHS-OA Community has developed/is developing training, with many of the workshops being made available on the NHS-OA Community YouTube channel and course material available on its GitHub.",
+    "crumbs": [
+      "NHS-OA vision"
+    ]
+  },
+  {
+    "objectID": "nhsoa-vision.html#development",
+    "href": "nhsoa-vision.html#development",
+    "title": "NHS-OA vision",
+    "section": "Development",
+    "text": "Development\nThe NHS-OA Community comprises members with a very wide diversity of job roles and skills. Although there is no one route to being a skilled and useful analyst/data scientist/R or python developer in health and social care, nonetheless the NHS-OA Community could usefully contribute to supporting recruitment, training and development of those who use R and other open code approaches to data science and analysis.",
+    "crumbs": [
+      "NHS-OA vision"
+    ]
+  },
+  {
+    "objectID": "get-involved.html",
+    "href": "get-involved.html",
+    "title": "Get Involved!",
+    "section": "",
+    "text": "🍨 Use our resources! 📚\nThere are lots of ways of making use of the NHS-OA Community:",
+    "crumbs": [
+      "Get Involved!"
+    ]
+  },
+  {
+    "objectID": "get-involved.html#use-our-resources",
+    "href": "get-involved.html#use-our-resources",
+    "title": "Get Involved!",
+    "section": "",
+    "text": "💻 Online resources\nAll are welcome to make use of our open source resources, which include:\n\nChat and ask questions on social media! We can be found at:\n\nSlack\nLinkedIn\n\nBooks\nCode repositories\nR Packages\nWebinar and workshop recordings on YouTube\nBlogs\nPrevious conference recordings\n\n\n\n🗣 In person (virtually)\nCore members (meaning employees of the NHS, public sector, civil servants, voluntary sector, charities and academia, or who are retirees from any of these sectors) are given preference when applying to attend our workshops, training courses and any other restricted ticketing event, but if there is sufficient space on the event anyone is welcome to get involved!\n\nCoffee and Code\nTraining\nWebinars\nWorkshops\nConference",
+    "crumbs": [
+      "Get Involved!"
+    ]
+  },
+  {
+    "objectID": "get-involved.html#contribute",
+    "href": "get-involved.html#contribute",
+    "title": "Get Involved!",
+    "section": "🎁 Contribute!",
+    "text": "🎁 Contribute!\nThis community is what we decide to make it - so come and help us shape everything from our ethos and aims to our code and public image! Those who make significant contributions to the community can apply to show off this commitment to the world by becoming an NHS-OA Community Fellow! You could contribute:\n\nTo our code base\nTo our committee\nBy hosting or co-hosting training\nBy creating training, a workshop or webinar\nBy delivering a workshop or webinar\nBy writing a blog\nBy tidying up the automatically generated subtitles on our YouTube videos\nHelping redesign any of our assets (website, books, repositories for example)\nBy representing the community to the outside world\n\nTo show our gratitude for your contributions, you can apply (or nominate someone) to become an NHS-OA Fellow. This is a great way to receive recognition and publicise your involvement.",
+    "crumbs": [
+      "Get Involved!"
+    ]
+  },
+  {
+    "objectID": "coffee-and-code.html",
+    "href": "coffee-and-code.html",
+    "title": "1  Coffee & Coding",
+    "section": "",
+    "text": "1.1 What Happens in a Session?\nCoffee and Coding is a core initiative of the NHS-OA Community, designed to provide an informal, supportive space for NHS, DHSC and the wider health and social care sector to share knowledge about Open Source open-source analytics (mainly R & Python).\nIt’s essentially a “community of practice” where the focus is on learning from peers rather than formal classroom instruction.\nThe sessions typically last an hour and are held virtually (usually via MS Teams). While they are organic and informal, they generally follow a loose structure:",
+    "crumbs": [
+      "Get Involved!",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Coffee & Coding</span>"
+    ]
+  },
+  {
+    "objectID": "coffee-and-code.html#what-happens-in-a-session",
+    "href": "coffee-and-code.html#what-happens-in-a-session",
+    "title": "1  Coffee & Coding",
+    "section": "",
+    "text": "Show and Tell: One or more members demonstrate a piece of code they’ve written, a new package they’ve discovered, or a dashboard they’ve built.\nLibrary/Tip of the Week: A quick highlight of a useful tool or shortcut that makes analytical life easier.\nCode Surgery: A space for members to bring “code dilemmas.” You can share your screen and get live help from the community on a specific bug, logic problem or just general advice.\nGeneral Discussion: Open floor for networking and discussing broader topics like RAP (Reproducible Analytical Pipelines), visualisation techniques, data science etc.",
+    "crumbs": [
+      "Get Involved!",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Coffee & Coding</span>"
+    ]
+  },
+  {
+    "objectID": "coffee-and-code.html#key-rules-and-ethos",
+    "href": "coffee-and-code.html#key-rules-and-ethos",
+    "title": "1  Coffee & Coding",
+    "section": "1.2 Key Rules and Ethos",
+    "text": "1.2 Key Rules and Ethos\nThe community operates on a few specific principles to keep the environment safe and productive:\n\n“Vegas Rules”: While training demos are often recorded, the general discussions and Q&A are typically not recorded (or the recording is stopped) to ensure people feel comfortable asking “simple” questions or admitting they are stuck. (Vegas Rules – what happens in Vegas – stays in Vegas)\nNo Patient Data: This is strictly enforced. Code is shared using “dummy” or synthetic data; real patient data is never shown.\nInclusivity: It is aimed at all skill levels. A typical session is roughly 40% beginners, 45% intermediate, and 15% advanced users.\nFirst Rule of C&C: “Tell everyone about Coffee and Code”—the goal is to grow the open-source movement within the healthcare sector.",
+    "crumbs": [
+      "Get Involved!",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Coffee & Coding</span>"
+    ]
+  },
+  {
+    "objectID": "coffee-and-code.html#how-to-join",
+    "href": "coffee-and-code.html#how-to-join",
+    "title": "1  Coffee & Coding",
+    "section": "1.3 How to Join",
+    "text": "1.3 How to Join\n\nFrequency: Sessions usually happen every 2 weeks, rotating between different days (Wednesdays & Thursdays) to ensure people with different shift patterns or part-time schedules can attend.\nBooking: You don’t usually need to “book” a ticket in the traditional sense, but you can sign up via the NHS-OA Community Page to get the MS Teams calendar invite and the calendar file.\nSlack: Much of the follow-up and resource sharing happens on the NHS-OA Community Slack channel, which is a great place to stay connected between sessions.\n\nWhy go?\nIf you are an analyst in the NHS, it’s one of the best ways to break out of your silo. You’ll find that someone else has almost always faced the same problem you’re currently struggling with, and they’ve likely already written a script to solve it. Its always great to see what other people are up to and be inspired and share ideas, you just don’t know what you don’t know – this is a safe space to find out. We want to share the cool stuff we are doing and help the community to thrive to support patient care.",
+    "crumbs": [
+      "Get Involved!",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Coffee & Coding</span>"
+    ]
+  },
+  {
+    "objectID": "coffee-and-code.html#dates-of-upcoming-sessions",
+    "href": "coffee-and-code.html#dates-of-upcoming-sessions",
+    "title": "1  Coffee & Coding",
+    "section": "1.4 Dates of upcoming sessions",
+    "text": "1.4 Dates of upcoming sessions\nTo see the dates of upcoming Coffee & Code sessions and to sign up to attend please see the events page.",
+    "crumbs": [
+      "Get Involved!",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Coffee & Coding</span>"
+    ]
+  },
+  {
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "Training",
+    "section": "",
+    "text": "Where to do the course?\nWe host some regular training courses that are very popular. These are:\nAll course materials are freely available through our GitHub. Use the links above to skip to the relevant ‘guide for attendees’ section.\nWith these courses, you need to have the relevant software and a place to store the files. Institutional rules and firewalls may, in some cases, prevent you from doing this on your work computer. For that reason, we often provide training using Posit Cloud - an online space you can log into that already has most of the relevant tools. You are also welcome to complete the course on your work computer if you can, or on a personal computer. To help you explain to your work’s IT department about what tools you need on your machine and why, see our Statement on Tools book for guidance.",
+    "crumbs": [
+      "Get Involved!",
+      "Training"
+    ]
+  },
+  {
+    "objectID": "training.html#where-to-do-the-course",
+    "href": "training.html#where-to-do-the-course",
+    "title": "Training",
+    "section": "",
+    "text": "If you are using Posit Cloud\n\n\n\n\n\n\nWarning\n\n\n\nAs Posit Cloud is hosted in the US this is used only for training where data is publicly available and the recommendation is to never use the Cloud for analysis of any sensitive data.\n\n\n\nPosit Cloud terminology\nThe workspace is the overall work area that is managed by a person for a training session or workshop. The projects are set up within the workspace and are set to duplicate for individuals to also join the workspace.\n\n\nActively used workspaces [Archived For Information]\nProjects in active workspaces, like the Introduction to R and R Studio workshop, will be archived after 3 months which means the project isn’t counted in the Cloud usage but is still retrievable.\n\n\nOne-off workspaces [Archived For Information]\nWorkspaces for one-off events like conferences will be archived after 3 months and deleted after 6 months.\n\n\nPrework for attendees\n\n\nEquipment - screens\nMany of the course and workshop formats expect a “code-along” approach which is best done with 2 screens for comfort of moving between the demonstration and using RStudio on your computer.\nWhere users use two separate computers to enable having 2 screens, this may cause issues with sharing code in the chat functions and it will not be possible to share the coding screen for debugging support.\n\n\nSet up Posit Cloud\n\n\n\n\n\n\nTipWhy use the Posit Cloud? (tip)\n\n\n\n\n\nIf you haven’t got R or RStudio on your computer, older versions of these programs or very tight restrictions on work computer networks (VPNs) then you can use the Posit Cloud for the workspace.\nThere is still some setting up required though so follow the steps for each course and let us know if anything doesn’t work or if instructions are not clear at the core development team.\n\n\n\n\nSign up for a free Posit Cloud account at https://posit.cloud/ before the workshop.\nLog in with either an existing Google or GitHub account, or alternatively set up an account directly with Posit Cloud.\n\nThe Cloud is restricted to a certain number of hours a month or RAM use as a free account and this should be enough for the purpose of a day workshop.\n\n\n\nSet up your own laptop/computer\n\n\n\n\n\n\nTipWhy use your own computer? (tip)\n\n\n\n\n\nAs some VPNs (Virtual Private Networks) block access to Posit Cloud, you may wish to use your own computer.\nVPNs sometimes do work but block parts of the R functionality, this is particularly a problem with Shiny apps viewed through the browser on the Cloud.\n\n\n\nIf you are using your own computer please ensure you have the latest versions of R and RStudio installed. Technical guidance on which programs are required and how to get those installed can be found in the NHS-OA Community Statement on Tools book.\nIt is important to have the latest R installed as older versions have had issues when installing ‘{tidyverse}’ packages. Errors may come up saying that packages like {broom} or {readr} cannot be installed but even when this has been installed separately there continue to be other errors. Some of the answers in this post from Posit community may help.\n\n\n\n\n\n\nWarning\n\n\n\nIf you require permission for programs to be installed on your computer by an IT department, it is worth getting agreement to also have these updated by your IT department regularly or by request as it is always good practice for fixing issues and bugs.\n\n\n\n\nDownloading zip files\nOne way of getting files from the GitHub repositories is to download a zip file:\n\n\n\nScreenshot of the GitHub download files page with the selection from the dropdown of Download zip highlighted\n\n\nHowever, there are alternatives that are detailed in each course under the header ‘Get data’, including whether this is a good way for your own computer or Posit Cloud.",
+    "crumbs": [
+      "Get Involved!",
+      "Training"
+    ]
+  },
+  {
+    "objectID": "training.html#intro-r-course",
+    "href": "training.html#intro-r-course",
+    "title": "Training",
+    "section": "Introduction to R and RStudio course materials",
+    "text": "Introduction to R and RStudio course materials\n\nViewing published slides\nhttps://intro-r-rstudio.nhsoa.uk/\n\n\nInstalling packages\nInstalling packages will be part of the course but the instructions can be followed in the pre-work from these course slide instructions:\n\ninstall.packages('tidyverse')\n\nOr using the RStudio program and the Packages tab in the bottom right panel which is explained in this short video from Andrew Jahn.\n\n\nGet data - own computer\nAs well as the packages for the course you will also need to install the packages {usethis} and {here} installed run the following code:\n\n# install.packages(c(\"usethis\", \"here\"))\nusethis::use_course(\"nhs-oa-community/intro_r_data\", destdir = here::here()) \n\n\n\nGet data - Posit Cloud\nConnect directly from GitHub repository by clicking on the blue button for New Project in the top right from the main screen. From the drop down that appears select New Project from Git Repository, then copy the following URL into the text which can be found in the particular workshop sections:\nhttps://github.com/nhs-oa-community/intro_r_data\n\n\n\nDownloading course slides only\n\n\n\n\n\n\nNoteNot a necessary step!\n\n\n\n\n\nAll the slides are published through GitHub to a redirected URL so should be available to all organisations. However, if you would still like to get copies then follow this section.\nNote that the files are html for greater accessibility and we do not provide the slides as PowerPoint or pdf.\n\n\n\nSlides can be downloaded from a separate repository https://github.com/nhs-r-community/intro_r/tree/gh-pages using the same process as for downloading zip file.\nThese are just the slides and not the underlying code used to produce the slides, which can be found in the main repository https://github.com/nhs-r-community/intro-r-rstudio. We have separated the code from the published slides and the data to not overwhelm beginners to R as there a lot of files!",
+    "crumbs": [
+      "Get Involved!",
+      "Training"
+    ]
+  },
+  {
+    "objectID": "training.html#intermediate",
+    "href": "training.html#intermediate",
+    "title": "Training",
+    "section": "Intermediate R",
+    "text": "Intermediate R\nThis course expects a level of prior experience and understanding of R.\nCurrently this course is script based and does not come in slide form.\n\nInstalling packages\nPackages used:\ninstall.packages(c(\"tidyverse\", \"NHSRdatasets\", \"pacman\", \"janitor\", \"zoo\",\n\"tm\", \"glue\", \"NHSRplotthedots\"))\n\n\nGet data - own computer\nAs well as the packages for the course you will also need to install the packages {usethis} and {here} installed run the following code:\n\n# install.packages(c(\"usethis\", \"here\"))\nusethis::use_course(\"nhs-oa-community/intermediate_R_training\", destdir = here::here()) \n\n\n\nGet data - Posit Cloud\nConnect directly from the GitHub repository by clicking on the blue button for New Project in the top right from the main screen. From the drop down that appears select New Project from Git Repository, then copy the following URL into the text which can be found in the particular workshop sections:\nhttps://github.com/nhs-oa-community/intermediate_R_training\n\nCourse scripts are available on GitHub https://github.com/nhs-oa-community/intermediate_R_training/tree/main",
+    "crumbs": [
+      "Get Involved!",
+      "Training"
+    ]
+  },
+  {
+    "objectID": "training.html#intro-git",
+    "href": "training.html#intro-git",
+    "title": "Training",
+    "section": "Introduction to Git and GitHub using R course materials",
+    "text": "Introduction to Git and GitHub using R course materials\n\nViewing published slides\nhttps://intro-git-github.nhsoa.uk/\n\n\nInstalling packages\nFollow the course slide.\n\n\nGitHub account\nTo use GitHub you will need to:\n\nregister and account at GitHub\nand set up 2FA (two factor authentication).\n\n\n\nDownloading all course material\nThis is not necessary for the course\nTo download all the files (including the slides) then on the main GitHub repository https://github.com/nhs-oa-community/intro-git-github#introduction-to-git-and-github follow the instructions on downloading data.",
+    "crumbs": [
+      "Get Involved!",
+      "Training"
+    ]
+  },
+  {
+    "objectID": "training.html#intro-quarto",
+    "href": "training.html#intro-quarto",
+    "title": "Training",
+    "section": "Introduction to Quarto course materials",
+    "text": "Introduction to Quarto course materials\n\nViewing published slides\nhttps://intro-quarto.nhsoa.uk/\n\n\nInstalling packages\nThe following packages are used which are not on CRAN and so require {remotes} (and cannot be installed via the RStudio packages wizard):\ninstall.packages(\"remotes\")\n\nremotes::install_github(\"nhs-oa-community/NHSRdatasets\")\nremotes::install_github(\"matt-dray/quartostamp\")\nPackages from CRAN:\ninstall.packages(c(\"tidyverse\", \"knitr\"))\n\n\nGet data - own computer\nAs well as the packages for the course you will also need to install the packages {usethis} and {here} installed run the following code:\n\n# install.packages(\"usethis\", \"here\")\n\nusethis::use_course(\"nhs-oa-community/intro_quarto_data\", destdir = here::here()) \n\n\n\nGet data - Posit Cloud\nConnect directly from the GitHub repository by clicking on the blue button for New Project in the top right from the main screen. From the drop down that appears select New Project from Git Repository, then copy the following URL into the text which can be found in the particular workshop sections:\n\nhttps://github.com/nhs-oa-community/intro_quarto_data\n\n\nDownloading all course material\nThis is not necessary for the course and excludes the data, which is from a different repository\nIf you want to have the slides on your computer, they can be downloaded from the repository intro-quarto. Using the same process as for Downloading files above you can download these to your computer by clicking on the green button and selecting the zip download.",
+    "crumbs": [
+      "Get Involved!",
+      "Training"
+    ]
+  },
+  {
+    "objectID": "training.html#shiny",
+    "href": "training.html#shiny",
+    "title": "Training",
+    "section": "Shiny beginners course materials",
+    "text": "Shiny beginners course materials\n\nViewing published slides\nhttps://shiny-beginners.nhsoa.uk/\n\n\nInstalling packages\nPackages are installed as part of the course on the cloud but the following are used which are:\ninstall.packages(c(\"tidyverse\", \"shiny\", \"bslibs\"))\n\n\nDownloading all course material\nThis is not necessary for the course\nTo download all the files (including the slides) then on the main GitHub repository https://github.com/nhs-oa-community/shiny-beginners follow the instructions on downloading data.",
+    "crumbs": [
+      "Get Involved!",
+      "Training"
+    ]
+  },
+  {
+    "objectID": "training.html#workshop-confirmation-emails",
+    "href": "training.html#workshop-confirmation-emails",
+    "title": "Training",
+    "section": "Workshop confirmation emails",
+    "text": "Workshop confirmation emails\nThe NHS-OA Community confirmation email will include:\n\nthe link to the workshop\na calendar invitation",
+    "crumbs": [
+      "Get Involved!",
+      "Training"
+    ]
+  },
+  {
+    "objectID": "training.html#modern-desktop-users-nhs-england",
+    "href": "training.html#modern-desktop-users-nhs-england",
+    "title": "Training",
+    "section": "Modern desktop users (NHS England)",
+    "text": "Modern desktop users (NHS England)\nSome organisations are using a modern desktop system. Please note that R projects do not appear to work with Projects/setwd and files like RMarkdown and Quarto don’t appear to work, giving the error:\n\nError in setwd(“C:/R/WorkingDir”) : cannot change working directory Execution halted\n\nCurrently, the way around this is to create the missing folder “C:/R/WorkingDir” (so WorkingDir folder in a folder called R on the C: drive) and whilst the warning message will remain the report scripts .rmd and .qmd will work. The other recommendation is currently to work through UDAL if you have access.",
+    "crumbs": [
+      "Get Involved!",
+      "Training"
+    ]
+  },
+  {
+    "objectID": "webinars.html",
+    "href": "webinars.html",
+    "title": "Webinars",
+    "section": "",
+    "text": "NHS-OA Community host an hour long virtual webinar most often on a Thursday, usually the last of the month. Sessions are recorded and posted onto the NHS-OA Community YouTube channel and collated together in the playlist ‘Webinars’. Content can relate to anything in health or social care and/or R coding. Webinars on other data science subjects like Python and Git/GitHub are also very welcome.\nThere is no restriction on who can attend the webinar and people can join/sign up through the NHS-OA Community website.\nSuggestions for webinars can be emailed to the core development team.",
+    "crumbs": [
+      "Get Involved!",
+      "Webinars"
+    ]
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Hosting (or co-hosting) Workshops",
+    "section": "",
+    "text": "Introduction to R and R Studio\nTo volunteer any workshops please contact the core development team.\nNHS-OA Community host volunteers running the Introduction to R and R Studio course once a month virtually. This usually is on the 3rd Wednesday of the month and is over two half days but is flexible to the availability of the person leading the workshop.\nCo-hosts can also attend and assist with:\nMaterials are available in a chapter form from NHS-OA Community GitHub to allow people the flexibility of what to cover in a session according to the time available. There is enough content for 3 half days, however, most often only 2 half days (or 1 full day) is volunteered.\nThese courses are very popular and are often fully subscribed and have a waiting list. If your desired course appears full, we encourage you apply to join anyway. This may mean you can attend if others have cancelled, but if that is not the case, we can use your email address to invite you to future courses in advance of them being sharing publicly.\nRecordings are always made available to attendees but are not always made public. However, if you wish to have a workshop you have led made public, these can be added to the public archive, provided permission has been sought from the attendees before recordings have been started. See section Video Recording for more information.\nContributions and changes to the materials are always welcome and can be made via the GitHub repository.",
+    "crumbs": [
+      "Get Involved!",
+      "Hosting (or co-hosting) Workshops"
+    ]
+  },
+  {
+    "objectID": "workshops.html#introduction-to-r-and-r-studio",
+    "href": "workshops.html#introduction-to-r-and-r-studio",
+    "title": "Hosting (or co-hosting) Workshops",
+    "section": "",
+    "text": "checking the chat,\nany technical issues with the Host leaving the call (if a Host has a power cut for example and leaves the meeting, it closes for everyone) and\nit can be agreed between the host and co-host to share sections of the training.",
+    "crumbs": [
+      "Get Involved!",
+      "Hosting (or co-hosting) Workshops"
+    ]
+  },
+  {
+    "objectID": "workshops.html#other-workshops",
+    "href": "workshops.html#other-workshops",
+    "title": "Hosting (or co-hosting) Workshops",
+    "section": "Other workshops",
+    "text": "Other workshops\nWorkshops, other than the regular Introduction to R and R Studio, are very welcome and we’ve had talks from other languages (Python) as well as specific subjects like statistics. All workshops are recorded and, unless specifically requested otherwise, are shared publicly. See section Video Recording for more information.\nThe length of a workshop can vary according to the content the person/people wish to deliver. In the past, we have supported workshops of 1 hour, half a day or a whole day.\nWorkshop formats often include some ‘code-along’ sections or exercises.",
+    "crumbs": [
+      "Get Involved!",
+      "Hosting (or co-hosting) Workshops"
+    ]
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blogs ✍",
+    "section": "",
+    "text": "Tell us about your career, your work, your favourite packages, your open-source journey, or anything you think the community would be interested in!\nWe’d love to receive blogs for the website and these can be emailed to openanalytics.community@nhs.net.\nIf you want to submit the blog as a Quarto document directly to the repository we’d love to receive a pull request from you (see get involved for tips on how).\nSee our existing blogs for tips on how to set your Quarto blog document up.\nIf you are writing a blog and are submitting this through a Pull Request in GitHub, please save a .qmd file into the folder called blog and any images you’ve used in the img sub-folder. Also ensure that all images used have suitable alternative text as good practice and this will need to be a short description of the image.\nThe format for the header part of the .qmd YAML template is often set out like this:\n---\ntitle: \"Your title here\"\ndate: \"17 October 2022\"\ndate-modified: \"27 July 2024\"\ncategories:\n  - Something\n  - Something Else\nauthor: Your name\nimage: img/picture.jpg\nimage-alt: \"Please add a short description\"\nsubtitle: &gt;\n  \"Please add a short description of the blog if you'd like or remove this text\"\n---\nThe default for all blogs’ YAML is:\nexecute:\n  `eval: true\n   echo: true\nso is not necessary in the blogs themselves. However, if you wish to change the default so the blog, for example, shows code but does not run it then the YAML needs the following added to the individual blog .qmd YAML:\nexecute: \n  eval: false\nMore details on the execution options are available from the Quarto documentation website.",
+    "crumbs": [
+      "Get Involved!",
+      "Blogs ✍"
+    ]
+  },
+  {
+    "objectID": "code_contribution.html",
+    "href": "code_contribution.html",
+    "title": "Contributing to our code base",
+    "section": "",
+    "text": "👩‍💻👨‍💻\nThe NHS-OA Community hosts all its code on our GitHub site.\n\nNot familiar or confident with Git or GitHub? No problem!\nIf you’d like help submitting any suggested changes or additions to any of our code-based resources (like our books or website), email us or ask for help in the NHS-OA Slack group and a member of the community would be happy to help you get started!\nIf you spot any errors, have any suggested changes or additions you’d like to make to any of our code-based resources, you can submit a Pull Request (PR). Please ensure you follow our Code of Conduct while doing so. If your PR concerns a bug you’ve found, you’ll get a better response if you include a reproducible example and there is a package that can help called {reprex}. Here’s a video on how to do this!\n\n\nHow to submit a Pull Request\nBefore trying to follow the instructions on what to do to contribute make sure you have Git installed on your computer and a GitHub account. Details on how to get set up can be found in the Introduction to Git and GitHub using R course.\nThe first step to contributing is to clone the site to your own GitHub account. As with many programs and coding there are numerous ways to do this but one nice way in R is to use the package {usethis}.\nFrom your own repository you should create a new branch. Again, using {usethis} you can follow the steps from the course https://intro-git-github.nhsoa.uk/session-usethis-gert.html#/start-new-work and then create a pull request.\n\n\n\n\n\n\nTipPR to which repository? (tip)\n\n\n\n\n\nBy following these instructions you will have created a new branch in your repository so the PR (pull request) will go automatically to your own repository’s main branch. You can either complete this which updates your main or redirect the PR in GitHub to the original NHS-OA Community repository which will be possible as the two are linked.",
+    "crumbs": [
+      "Get Involved!",
+      "Contributing to our code base"
+    ]
+  },
+  {
+    "objectID": "nhsoa-committee.html",
+    "href": "nhsoa-committee.html",
+    "title": "NHS-OA Community Committee",
+    "section": "",
+    "text": "Terms of Reference\nNHS-OA Community has a Committee, details are below, and this reports to a Steering Group whose membership is made up of The Strategy Unit colleagues.",
+    "crumbs": [
+      "our_ways.qmd",
+      "NHS-OA Community Committee"
+    ]
+  },
+  {
+    "objectID": "nhsoa-committee.html#purpose",
+    "href": "nhsoa-committee.html#purpose",
+    "title": "NHS-OA Community Committee",
+    "section": "Purpose",
+    "text": "Purpose\nThe purpose of the committee is to:\n\nagree and support the purpose for the NHS-OA Community.\ndevelop and deliver a programme to support the purpose which has included webinars, workshops, and conferences.\nmake the NHS-OA Community a welcome and inclusive space where members can share, connect and support each other.\n\nsteer the direction and vision of NHS-OA Community by making use of available data such as survey results, engagement statistics and event attendance reports.",
+    "crumbs": [
+      "our_ways.qmd",
+      "NHS-OA Community Committee"
+    ]
+  },
+  {
+    "objectID": "nhsoa-committee.html#governance",
+    "href": "nhsoa-committee.html#governance",
+    "title": "NHS-OA Community Committee",
+    "section": "Governance",
+    "text": "Governance\nThe working group is chaired by a representative from the hosting body, the Strategy Unit, who will have overall responsibility for the governance and financial running of NHS-OA Community.\nAs part of the support from The Strategy Unit administrative support is provided to manage the events held as part of NHS-OA Community and will be available to take brief notes.\nMeetings will be held regularly and dependent upon requirements of NHS-OA Community at a minimum of once a month.",
+    "crumbs": [
+      "our_ways.qmd",
+      "NHS-OA Community Committee"
+    ]
+  },
+  {
+    "objectID": "nhsoa-committee.html#membership",
+    "href": "nhsoa-committee.html#membership",
+    "title": "NHS-OA Community Committee",
+    "section": "Membership",
+    "text": "Membership\nThe committee will comprise volunteer representatives of the wider community including NHS, central government, local government, public sector, voluntary, charities and academia. Whilst no one will be prevented from joining who is not currently employed by any of these organisations it is expected that individuals are mindful of the purpose of NHS-OA Community to promote the use of open-source data science tools within these organisations specifically.\nMembers will be asked to meetings, at a minimum of monthly, and where possible volunteer for additional tasks to support NHS-OA Community, as well as disseminating information about NHS-OA Community to their own networks. Members will be asked to reconfirm their commitment to the group every six months. There will be no specific limitation to the size of the Committee as it is recognised that this Committee may create sub-groups to support particular activities.",
+    "crumbs": [
+      "our_ways.qmd",
+      "NHS-OA Community Committee"
+    ]
+  },
+  {
+    "objectID": "nhsoa-committee.html#outputs",
+    "href": "nhsoa-committee.html#outputs",
+    "title": "NHS-OA Community Committee",
+    "section": "Outputs",
+    "text": "Outputs\nLead on the development of a schedule of community meetups, encouraging wider collaboration beyond the NHS and the domain knowledge of open source coding languages.\nDevelop a communications and engagement strategy for the community.\nEstablish an evaluation process to ascertain impact/effectiveness of the community initiatives.\nLead on development of the community-led handbook NHS-OA Way.\nSupport the establishment and management of subcommunities.",
+    "crumbs": [
+      "our_ways.qmd",
+      "NHS-OA Community Committee"
+    ]
+  },
+  {
+    "objectID": "nhsoa-committee.html#meetings",
+    "href": "nhsoa-committee.html#meetings",
+    "title": "NHS-OA Community Committee",
+    "section": "Meetings",
+    "text": "Meetings\nWorking group meetings to be held at least every month for one hour with minutes to be shared publicly on the NHS-OA Community GitHub.\nThe frequency of meetings will be as determined by the group, particularly in preparation for large events like conferences.",
+    "crumbs": [
+      "our_ways.qmd",
+      "NHS-OA Community Committee"
+    ]
+  },
+  {
+    "objectID": "nhsoa-committee.html#minutes",
+    "href": "nhsoa-committee.html#minutes",
+    "title": "NHS-OA Community Committee",
+    "section": "Minutes",
+    "text": "Minutes\nOnce agreed minutes will be uploaded as markdown files to the NHS-OA Community GitHub repository",
+    "crumbs": [
+      "our_ways.qmd",
+      "NHS-OA Community Committee"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html",
+    "href": "CODE_OF_CONDUCT.html",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "Our Pledge\nWe as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\nAll core team members are dedicated to a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or class. We do not tolerate harassment by and/or of members of our community in any form.\nWe are particularly motivated to support new and/or anxious collaborators, people who are looking to learn and develop their skills, and anyone who has experienced discrimination in the past.\nTo make clear what is expected, everyone participating in activities associated with the NHS-OA Community is required to conform to this Code of Conduct. This Code of Conduct applies to all spaces managed by the NHS-OA Community including, but not limited to, in-person meetings, conferences, workshops, and communications online via GitHub and the NHS-OA Community Slack.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#our-pledge",
+    "href": "CODE_OF_CONDUCT.html#our-pledge",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "ImportantOrganisations (important)\n\n\n\n\n\nNHS-OA Community is a community that extends membership beyond its hosting organisation but is managed financially and administratively through its hosting organisation. The hosting organisation is The Strategy Unit.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#core-team",
+    "href": "CODE_OF_CONDUCT.html#core-team",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Core Development Team",
+    "text": "Core Development Team\nThe NHS-OA Community has a core development team which consists of:\n\nClaire Welsh - NHS-OA Community Manager\nCaileigh Solomenca - Community Officer\n\nEscalation, as needed, is to Chris Beeley, a senior manager in The Strategy Unit.\nThe central email is accessed by Claire Welsh, Caileigh Solomenca and administrative/support staff in The Strategy Unit.\nClaire Welsh and Caileigh Solomenca are employees of The Strategy Unit and are not excluded from this Code of Conduct but, if required, contact can be made with the Senior Management team within The Strategy Unit in the same organisation through strategy.unit@nhs.net which neither have access to.\nThe NHS-OA Community team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our community members or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to: gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, class or experience level.\nBy participating, contributors indicate their acceptance of the procedures by which the NHS-OA Community resolves any Code of Conduct incidents, which may include storage and processing of their personal information as well as sharing of that information with organisations.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#expected-behaviour",
+    "href": "CODE_OF_CONDUCT.html#expected-behaviour",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Expected Behaviour",
+    "text": "Expected Behaviour\nWe are confident that our community members will together build a supportive and collaborative atmosphere at our events and during online communications. The following bullet points set out explicitly what we hope you will consider to be appropriate community guidelines:\n\nBe respectful of different viewpoints and experiences. Do not engage in homophobic, racist, transphobic, ageist, ableist, sexist, or otherwise exclusionary behaviour.\nUse welcoming and inclusive language. Exclusionary comments or jokes, threats or violent language are not acceptable. Do not address others in an angry, intimidating, or demeaning manner. Be considerate of the ways the words you choose may impact others. Be patient and respectful of the fact that English is a second (or third or fourth!) language for some participants.\nDo not harass people. Harassment includes unwanted physical contact, sexual attention, or repeated social contact. Know that consent is explicit, conscious and continuous—not implied. If you are unsure whether your behaviour towards another person is welcome, ask them. If someone tells you to stop, do so.\nRespect the privacy and safety of others. Do not take photographs or screen shares of others without their permission. Do not share other participant’s personal experiences without their express permission. Note that posting (or threatening to post) personally identifying information of others without their consent (“doxing”) is a form of harassment.\nBe considerate of others’ participation. Everyone should have an opportunity to be heard. In update sessions, please keep comments succinct so as to allow maximum engagement by all participants. Do not interrupt others on the basis of disagreement; hold such comments until they have finished speaking.\nDon’t be a bystander. If you see something inappropriate happening, speak up. If you don’t feel comfortable intervening but feel someone should, please feel free to ask a member of the Code of Conduct response team for support.\nAs an overriding general rule, please be intentional in your actions and humble in your mistakes.\n\nAll interactions should be professional regardless of platform: either online or in-person. See this explanation of the four social rules - no feigning surprise, no well-actuallys, no back-seat driving, no subtle -isms - for further recommendations for inclusive behaviours.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#unacceptable-behaviour",
+    "href": "CODE_OF_CONDUCT.html#unacceptable-behaviour",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Unacceptable Behaviour",
+    "text": "Unacceptable Behaviour\nExamples of unacceptable behaviour by the NHS-OA community members at any project event or platform include:\n\nwritten or verbal comments which have the effect of excluding people on the basis of membership of any specific group\ncausing someone to fear for their safety, such as through stalking, following, or intimidation\nviolent threats or language directed against another person\nthe display of sexual or violent images\nunwelcome sexual attention\nnonconsensual or unwelcome physical contact\nsustained disruption of talks, events or communications\ninsults or put downs\nsexist, racist, homophobic, transphobic, ableist, or exclusionary jokes\nexcessive swearing\nincitement to violence, suicide, or self-harm\ncontinuing to initiate interaction (including photography or recording) with someone after being asked to stop\npublication of private communication without consent",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#presentations-and-posters",
+    "href": "CODE_OF_CONDUCT.html#presentations-and-posters",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Presentations and Posters",
+    "text": "Presentations and Posters\nPresentation slides and posters should not contain material that does not follow this Code of Conduct, for example, anything offensive or sexualised. If this material is impossible to avoid given the topic (for example text mining of material from hate sites) the existence of this material should be noted in the abstract and, in the case of oral contributions, at the start of the talk or session. If the slides are shared or hosted by NHS-OA Community, these should also contain a covering slide and details in the README to highlight the inclusion of this content.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#weapons-policy",
+    "href": "CODE_OF_CONDUCT.html#weapons-policy",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Weapons Policy",
+    "text": "Weapons Policy\nNo weapons will be allowed at NHS-OA events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#consequences-of-unacceptable-behaviour",
+    "href": "CODE_OF_CONDUCT.html#consequences-of-unacceptable-behaviour",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Consequences of Unacceptable Behaviour",
+    "text": "Consequences of Unacceptable Behaviour",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#enforcement-responsibilities",
+    "href": "CODE_OF_CONDUCT.html#enforcement-responsibilities",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Enforcement Responsibilities",
+    "text": "Enforcement Responsibilities\nCommunity leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#scope",
+    "href": "CODE_OF_CONDUCT.html#scope",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Scope",
+    "text": "Scope\nThis Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#enforcement",
+    "href": "CODE_OF_CONDUCT.html#enforcement",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Enforcement",
+    "text": "Enforcement\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at openanalytics.community@nhs.net. All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#enforcement-guidelines",
+    "href": "CODE_OF_CONDUCT.html#enforcement-guidelines",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Enforcement Guidelines",
+    "text": "Enforcement Guidelines\nCommunity leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n1. Correction\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n2. Warning\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n3. Temporary Ban\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n4. Permanent Ban\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#feedback",
+    "href": "CODE_OF_CONDUCT.html#feedback",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Feedback",
+    "text": "Feedback\nThis Code of Conduct is not intended as a static set of rules by which everyone must abide. Rather, you are invited to make suggestions for updates or clarifications by making a pull request to this document on GitHub.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#contact-points",
+    "href": "CODE_OF_CONDUCT.html#contact-points",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Contact points",
+    "text": "Contact points\nIf you feel able to, please contact our inbox or email claire.welsh8@nhs.net.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#alternate-contact-points",
+    "href": "CODE_OF_CONDUCT.html#alternate-contact-points",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Alternate contact points",
+    "text": "Alternate contact points\nIf you do not feel comfortable contacting either of the above, please report an incident to Chris Beeley by email at chris.beeley1@nhs.net.\nIf you do not feel comfortable contacting either Claire, the inbox, or Chris Beeley, you may wish to contact the Senior Management team within The Strategy Unit through strategy.unit@nhs.net which neither have access to.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#what-to-do-if-someone-is-in-physical-danger",
+    "href": "CODE_OF_CONDUCT.html#what-to-do-if-someone-is-in-physical-danger",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "What to do if someone is in physical danger",
+    "text": "What to do if someone is in physical danger\nIf you believe someone is in physical danger, please contact the appropriate emergency responders.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#the-code-of-conduct-committee",
+    "href": "CODE_OF_CONDUCT.html#the-code-of-conduct-committee",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "The Code of Conduct Committee",
+    "text": "The Code of Conduct Committee\nThe Code of Conduct committee is:\n\nChris Beeley: chris.beeley1@nhs.net\nClaire Welsh: claire.welsh8@nhs.net\n\nWe will always seek to build a larger committee including members outside of the core development team.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#urgent-situations-acting-unilaterally",
+    "href": "CODE_OF_CONDUCT.html#urgent-situations-acting-unilaterally",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Urgent Situations: Acting Unilaterally",
+    "text": "Urgent Situations: Acting Unilaterally\nIf the incident involves physical danger, or involves a threat to anyone’s safety (for example threats of violence), any member of the community may – and should – act unilaterally to protect the safety of any community member (provided they are confident this will not put them in danger). This can include contacting law enforcement (or other local personnel) and speaking on behalf of the NHS-OA Community.\nIf the act is ongoing, any community member may act immediately, before reaching consensus, to diffuse the situation. In ongoing situations, any member may at their discretion employ any of the tools available in this enforcement manual, including bans and blocks online, or removal from a physical space.\nIn situations where an individual community member acts unilaterally, they must inform the core development team as a central point of contact as soon as possible, and report their actions for review within 24 hours.\nIt is likely that a situation at this level will require incidents being raised in the Strategy Unit as well as any other corresponding organisations. Please ensure that you comply with local incident reporting systems and share incident reference numbers with the core development team.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#less-urgent-situations",
+    "href": "CODE_OF_CONDUCT.html#less-urgent-situations",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Less-Urgent Situations",
+    "text": "Less-Urgent Situations\nUpon receiving a report of an incident, the Code of Conduct committee will review the incident and determine, to the best of their ability:\n\nwhether this is an ongoing situation\nwhether there is a threat to anyone’s physical safety\nwhat happened\nwhether this event constitutes a Code of Conduct violation\nwho, if anyone, was the bad actor\nwhat action, if any, needs to be taken with organisations\n\nThis information will be collected either in person or in writing. The Code of Conduct committee will provide a written summary of the information surrounding the incident. All participants will be anonymised in the summary report, referred to as “Community Member 1”, “Community Member 2”, or “Core Development Team Member 1”. The “de-anonymising key” will be kept in a separate file and only accessed to link repeated reports against the same person over time.\nThe Code of Conduct committee will aim to have a resolution agreed upon within 5 working days. In the event that a resolution can’t be determined in that time, a member of the Code of Conduct committee will respond to the reporter(s) with an update and projected timeline for resolution.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#resolutions",
+    "href": "CODE_OF_CONDUCT.html#resolutions",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Resolutions",
+    "text": "Resolutions\nThe Code of Conduct committee will seek to agree on a resolution by consensus of all members investigating the report in question. If the committee cannot reach consensus and deadlocks for over a week, Chris Beeley, will break the tie.\nPossible responses may include:\n\nA mediated conversation or agreement between the impacted community members.\nA request for a verbal or written apology, public or private, from a community member.\nA public announcement clarifying community responsibilities under the Code of Conduct.\nNothing, if the issue reported is not a violation or outside of the scope of this Code of Conduct.\nA private in-person conversation between a member of the team and the individual(s) involved. In this case, the person who has the conversation will provide a written summary for record keeping.\nA private written reprimand from a member of the core development team to the individual(s) involved. In this case, the core development team member will deliver that reprimand to the individual(s) over email, cc’ing the core development team for record keeping.\nA public announcement of an incident, ideally in the same venue that the violation occurred (for example on the listserv for a listserv violation; GitHub for a GitHub violation, and so on). The committee may choose to publish this message elsewhere for posterity.\nAn imposed “time out” from online spaces. Zoë Turner, Claire Welsh and Chris Beeley will communicate this “time out” to the individual(s) involved.\nA permanent or temporary ban from some or all NHS-OA Community project spaces (GitHub, in-person events and so on). The core development team will maintain records of all such bans so that they may be reviewed in the future, extended to a Code of Conduct safety team as it is built, or otherwise maintained. If a member of the community is removed from an event they will not be reimbursed for any part of the event that they miss.\n\nOnce a resolution is agreed upon, but before it is enacted, a member of the Code of Conduct committee will contact the original reporter and any other affected parties and explain the proposed resolution. The Code of Conduct committee member will ask if this resolution is acceptable, and must note feedback for the record. However, the Code of Conduct committee is not required to act on this feedback.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#conflicts-of-interest",
+    "href": "CODE_OF_CONDUCT.html#conflicts-of-interest",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Conflicts of Interest",
+    "text": "Conflicts of Interest\nIn the event of any conflict of interest such that Zoë Turner or Claire Welsh are not able to evaluate or enforce the reported violation, Chris Beeley will take responsibility and in the event that all are involved in the conflict of interest this will be escalated to a senior manager within The Strategy Unit.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#sensitive-information",
+    "href": "CODE_OF_CONDUCT.html#sensitive-information",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "Sensitive information",
+    "text": "Sensitive information\nIn the event that any sensitive information has been published changes will be made immediately to the text and code (including history) to redact the data.\nExamples include but are not restricted to:\n\npatient data\nstaff data\nsmall numbers which make groups identifiable\nauthorisation codes that are not Patient Access Tokens as these are automatically deleted (as tokens) by GitHub.\n\nIt is likely that this situation will also require incidents being raised in The Strategy Unit as well as any other corresponding organisations and may be considered as breaches.\n\nPull Requests/Forks/clones with sensitive information\nIn the event that sensitive information exists in forks/clones or is from another GitHub repository and has been submitted as a Pull Request, the core development team will be responsible for contacting and liaising with GitHub to delete this information.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Contributor Covenant Code of Conduct"
+    ]
+  },
+  {
+    "objectID": "nhsoa-fellows.html",
+    "href": "nhsoa-fellows.html",
+    "title": "NHS-OA Community Fellowship",
+    "section": "",
+    "text": "Purpose\nNHS-OA Community awards the honorary title of Fellow in recognition and acknowledgement of those members of the NHS-OA Community who have made a significant contribution to the Community.\nExamples of contributions may be creating a workshop, running workshops, attending NHS-OA Committee meetings, submitting several blogs or contributing significantly to code hosted through NHS-OA Community (see below for fellowship qualification details).\nThis is a way for active members to be able to refer to their commitment to the NHS-OA Community in social media and/or on CVs. Because the Fellowship is given to members who are active in the Community there is no restriction on membership (core or fringe), time involved with the community or working in any particular industry or organisation.",
+    "crumbs": [
+      "our_ways.qmd",
+      "NHS-OA Community Fellowship"
+    ]
+  },
+  {
+    "objectID": "nhsoa-fellows.html#use-of-fellow-title",
+    "href": "nhsoa-fellows.html#use-of-fellow-title",
+    "title": "NHS-OA Community Fellowship",
+    "section": "Use of Fellow title",
+    "text": "Use of Fellow title\nAs an honorary title, those awarded Fellowship are at liberty to use it as they see appropriate. It is expected that Fellows will be aware of, promote and follow the NHS-OA Community Code of Conduct when contributing to any NHS-OA Community events.\nFellows agree to their name and organisation (if appropriate as Fellows can be students or not currently in work) at the time of nomination, being promoted through the OA Community website for 3 years, after which their Fellowship will be reviewed by the NHS-OA Community Committee for renewal or details removed from the website. We ask that details are updated in personal areas to reflect this or refer to being a Previous Fellow.",
+    "crumbs": [
+      "our_ways.qmd",
+      "NHS-OA Community Fellowship"
+    ]
+  },
+  {
+    "objectID": "nhsoa-fellows.html#criteria",
+    "href": "nhsoa-fellows.html#criteria",
+    "title": "NHS-OA Community Fellowship",
+    "section": "Becoming a Fellow",
+    "text": "Becoming a Fellow\nNominees who are members of the NHS-OA Community Committee and who have attended 3 or more committee meetings within the past 12 months will be awarded Fellow status (see the membership criteria for joining the committee). Similarly, community members who are on the Conference organisation committee, and all members of the core development team will automatically qualify for Fellowships. Outside of these groups, Fellowships will be awarded to nominees who can evidence 3 or more of the following within the past 12 months:\n\nBlog submission and publication on the OA website\nPull request of reasonable size* submitted to one of the NHS-OA Community GitHub repositories. *As judged by the core team\nLeading (or co-piloting) a training session\nDelivering a webinar\nDelivering a workshop\nSubmitting a usable non-code contribution, for example NHS-OA artwork\nRepresentation of the NHS-OA Community at external events, for example\nAny other contribution deemed ‘significant’ by the core team.\n\nYour submission could contain a mixture of different types of contribution, for example one blog, one training session and a pull request, or alternatively, three pull requests.\nNominations for Fellows will be brought to the NHS-OA core development team. Should your nomination not meet the above criteria, but be thought worthy of further consideration, we will submit your nomination to the Fellowship Adjudication Committee.\nThis committee will contain the core development team and one or more non-Strategy Unit NHS-OA Committee members, who will be required to confirm no conflict of interest at the outset of any decision making. Should a conflict of interest be noted, that committee member will recuse themselves and alternative will be found. The results of this adjudication will be emailed to you on completion of the process. If after 2 months from the date of submission the adjudication committee have not declined your nomination, a Fellowship will be awarded.\nThe name, organisation (if applicable), contribution type(s) and date of award will be recorded and displayed on the NHS-OA website for 3 years, at which time the Fellowship will expire unless renewed (using the same criteria as above).",
+    "crumbs": [
+      "our_ways.qmd",
+      "NHS-OA Community Fellowship"
+    ]
+  },
+  {
+    "objectID": "nhsoa-fellows.html#submit-your-nomination",
+    "href": "nhsoa-fellows.html#submit-your-nomination",
+    "title": "NHS-OA Community Fellowship",
+    "section": "Submit your nomination",
+    "text": "Submit your nomination\nNominations can be from anyone, for themselves or on behalf of someone else. Nomination will be via email to openanalytics.community@nhs.net giving the following details:\n\nName\nOrganisation\nDetails and publicly shareable links to work and activities completed in the name of or on behalf of NHS-OA Community. These activities should be in the open and reflect the Code of Conduct of the NHS-OA Way.\n\nThe committee will review nominations as they are submitted throughout the year.",
+    "crumbs": [
+      "our_ways.qmd",
+      "NHS-OA Community Fellowship"
+    ]
+  },
+  {
+    "objectID": "style-guides.html",
+    "href": "style-guides.html",
+    "title": "Style Guides",
+    "section": "",
+    "text": "Style Guide for text\nTo ensure that text like books, websites and blogs can be read easily by everyone, including screen readers and non-native English speakers, we have compiled a set of guidelines to keep a consistent style.\nAs recommended in the The Turing Way we follow the GOV.UK guidance to improve accessibility.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#write-each-sentence-in-a-new-line-line-breaks",
+    "href": "style-guides.html#write-each-sentence-in-a-new-line-line-breaks",
+    "title": "Style Guides",
+    "section": "Write each sentence in a new line (line breaks)",
+    "text": "Write each sentence in a new line (line breaks)\nPlease write all sentences in the markdown file on separate lines. Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph. Consider the example below.\nToday you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss\nA pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph. Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.\nToday you are you, that is truer than true.\nThere is no one alive who is youer than you.\n- Dr Seuss",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#opinions-are-welcome-but",
+    "href": "style-guides.html#opinions-are-welcome-but",
+    "title": "Style Guides",
+    "section": "Opinions are welcome, but …",
+    "text": "Opinions are welcome, but …\nThe NHS-OA Community Way book is intended to be only lightly opinionated. Whilst more opinionated content is allowed, such content should be clearly marked. The best way to do this is by displaying it in a quote box. This can be done by either prefixing every line with the greater than symbol &gt;. Note that the formatting will be retained, so we can split each sentence to a new line as recommended before.\n&gt; I will not eat them in a house,\n&gt; i will not eat them with a mouse,\n&gt; i will not eat them in a box i will not eat them with a fox,\n&gt; i will not eat them here of there i will not eat them anywhere,\n&gt; I do not like green eggs and ham i do not like them sam i am\nQuarto also allows for call out boxes for further and specific emphasis including notes, warnings, important, tips and caution.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#avoid-latin-abbreviation",
+    "href": "style-guides.html#avoid-latin-abbreviation",
+    "title": "Style Guides",
+    "section": "Avoid Latin Abbreviation",
+    "text": "Avoid Latin Abbreviation\nPlease do not use Latin abbreviations. See the Gov.uk recommendations for details.\nSome of these abbreviations are:\n\nexempli gratia (for example)\net-cetera (so on) and\nid est (that is)\n\nThese examples are not written out in their shortened form as the book can be set to fail to publish with Latin abbreviations through GitHub to enforce this style.\nInstead of the first abbreviation in the table for exempli gratia, which can sometimes read aloud as ‘egg’ by screen reading software, please use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.\nInstead of the second abbreviation in the table for et-cetera to indicate open ended list, please start the list with words like ‘for example’ or ‘such as’ or ‘like’ or ‘including’.\nInstead of third abbreviation in the table for id est that is often used to clarify a sentence, try (re)writing sentences to avoid the need to use it. If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#explain-acronyms",
+    "href": "style-guides.html#explain-acronyms",
+    "title": "Style Guides",
+    "section": "Explain acronyms",
+    "text": "Explain acronyms\nThe NHS and many other public sector organisations often rely on acronyms to shorten long texts and names like\n\nNHS Midland and Lancashire\n\nbecomes MLCSU.\nNot everyone will be familiar with these acronyms, even if they work in the same sector like healthcare. It’s fair to continue to use NHS as we rarely say National Health Service but do consider your audience as not everyone is familiar with the NHS and what it does (and doesn’t do).\nFor technical language, also consider explaining the acronym, at least once at the beginning of the text. This can be in the form:\n\nContinuous Integration (CI)\n\nso that whenever CI is referenced later its full form is in the text.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#use-capitals-wisely",
+    "href": "style-guides.html#use-capitals-wisely",
+    "title": "Style Guides",
+    "section": "Use capitals wisely",
+    "text": "Use capitals wisely\nScreen readers will read capitals as if they are acronyms which works for things like NHS and MLCSU. Because a screen reader read each letter, using capitals for emphasis in text like:\nDO NOT do this\ncould result in a screen reader spelling out the words do and not by individual letters. It’s also felt to be a bit like shouting in text so consider other ways of emphasis.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#external-links",
+    "href": "style-guides.html#external-links",
+    "title": "Style Guides",
+    "section": "External links",
+    "text": "External links\nWrite external links using “http://” instead of “www”. This ensures they are correctly recognised as hyperlinks.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#chunks-with-code-or-special-text",
+    "href": "style-guides.html#chunks-with-code-or-special-text",
+    "title": "Style Guides",
+    "section": "Chunks with code or special text",
+    "text": "Chunks with code or special text\nYou can ensure that any code (or Markdown) chunks you have in the guide have the code syntax highlighted by mentioning the language in question. As an example, if you want to have some R code, when you open the chunk with three back ticks you can add the language name immediately after it (``` becomes ```R).\nMarkdown source:\n    ```R\n    x &lt;- c(1:21)\n    ```\nHTML output:\nx &lt;- c(1:21)",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#referencing-r-packages-and-functions-in-text",
+    "href": "style-guides.html#referencing-r-packages-and-functions-in-text",
+    "title": "Style Guides",
+    "section": "Referencing R packages and functions in text",
+    "text": "Referencing R packages and functions in text\nBecause a number of popular R packages use common names like janitor it can help distinguish the word refers to a package by using curly brackets: {janitor}.\nTo highlight the use of a package in text using markdown formatting put function names in back ticks: mutate() along with rounded brackets.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#licenceslicenses",
+    "href": "style-guides.html#licenceslicenses",
+    "title": "Style Guides",
+    "section": "Licences/licenses",
+    "text": "Licences/licenses\nFurther information on the types of licences and how to get the text required for projects can be found on the Statement on Tools book",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#language",
+    "href": "style-guides.html#language",
+    "title": "Style Guides",
+    "section": "Language",
+    "text": "Language\nFollowing the GDS Way the NHS-OA Community Way will:\n\nWhen using a proper name, use the appropriate spelling for that thing (for example the MIT License.)\n\nand:\n\nEach repository should include a licence file. This should be called LICENCE or LICENCE.md.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#licences-to-use",
+    "href": "style-guides.html#licences-to-use",
+    "title": "Style Guides",
+    "section": "Licences to use",
+    "text": "Licences to use\nNHS-OA Community repositories are licenced under MIT for code based projects like Shiny apps and packages:\n\nthe MIT License is a permissive software license that places few restrictions of reuse. Users of software using an MIT License are permitted to use, copy, modify, merge publish, distribute, sublicense and sell copies of the software.\n\nNote that any copyright needs to be copied retained in any copies:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nand CC0 for text based projects like training and books (like this):\n\nallows the creator to retain copyright whilst allowing others to copy and distribute and make use of their work non-commercially. The Creative Commons license also ensures creators get the recognition and credit for the work they produce and share.\n\nThere are more than one type of Creative Commons licence and represents a spectrum between public domain and all rights reserved https://en.wikipedia.org/wiki/Creative_Commons_license#Types_of_licenses\nCreative Commons licences are to be avoided for software (by implication code) due to backward-compatibility limitations and are also irrevocable, so any work taken under the licence can continue to be used under those original terms.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#copyright",
+    "href": "style-guides.html#copyright",
+    "title": "Style Guides",
+    "section": "Copyright",
+    "text": "Copyright\nCopyright is held by a person or a legal entity and it should be noted that NHS-OA Community is not a legal entity. NHS-OA Community is currently hosted by The Strategy Unit, however, most contributors to NHS-OA Community work do so under their own organisation’s time or even their own time and so will copyright would be to their employer or themselves.\nWhere possible we use Crown Copyright",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#styler-lintr-packages-and-tidyverse-style-guide",
+    "href": "style-guides.html#styler-lintr-packages-and-tidyverse-style-guide",
+    "title": "Style Guides",
+    "section": "{styler}, {lintr} packages and tidyverse Style Guide",
+    "text": "{styler}, {lintr} packages and tidyverse Style Guide\nIt is highly recommended that code that is produced for and by NHS-OA Community has {styler} applied to it as detailed in the R for Data Science (2nd Edition) and the tidyverse style guide.\nThe use of the package {lintr} is also highly recommended and can show particular style issues that may not be automatically corrected through using {styler}.\n\nThemes\n\nR package {NHSRtheme} with NHS colour themes\nQuarto report NHS theme\nQuarto NHS theme\n\nThe assets GitHub repository holds the NHS-OA Community logo and _brand.yml which can be used for Quarto products and Shiny. More information can be found on the brand.yml page.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#typography",
+    "href": "style-guides.html#typography",
+    "title": "Style Guides",
+    "section": "Typography",
+    "text": "Typography\nWhere possible all other guidance from the NHS Service Manual is followed.\nNHS-OA Community does not use the NHS Frutiger font as this is not an official website and would require additional code to be used which not every contributor would have access to. Code is available in the _brand.yml but is commented out and so will not run.\nArial is used in all outputs following NHS guidance of using Arial where Frutiger is not available.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#contributing",
+    "href": "style-guides.html#contributing",
+    "title": "Style Guides",
+    "section": "Contributing",
+    "text": "Contributing\nPlease see our guidance on how to contribute.\nThis project is released with a Contributor Code of Conduct. By contributing to this project, you agree to abide by its terms.\nThe simplest way to contribute is to raise an issue detailing the feature or functionality you would like to see added, or any unexpected behaviour or bugs you have experienced.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#special-note-of-thanks",
+    "href": "style-guides.html#special-note-of-thanks",
+    "title": "Style Guides",
+    "section": "Special note of thanks",
+    "text": "Special note of thanks\nUse if required\n\nTo create a code of conduct file use the code from the {usethis} package:\n\nuse_code_of_conduct(contact = “openanalytics.community”) ```\nwhich generates a file CODE_OF_CONDUCT.md.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "accessibility.html",
+    "href": "accessibility.html",
+    "title": "Accessibility",
+    "section": "",
+    "text": "Subtitles\nWe have an accessibility statement on the NHS-OA Community website outlining the design decisions and detailing non-accessible content. It is likely that things will have been missed and we encourage comments, issues and suggestions for improvement.\nWe have not currently assessed for compliant status as this is not something we can confidently assess ourselves. We have checked pages using the Web Accessibility Evaluation Tool to highlight areas for concern and improvement and acted upon many of its recommendations.\nCurrently our YouTube recordings only have automatically generated subtitles which are not sufficiently accessible. It is an ongoing project to check recordings and correct text and we welcome assistance in this.\nThe move of podcasts from Soundcloud to YouTube has offered the opportunity to apply subtitles and this has been generated using the free software Clipchamp.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Accessibility"
+    ]
+  },
+  {
+    "objectID": "accessibility.html#alt-text",
+    "href": "accessibility.html#alt-text",
+    "title": "Accessibility",
+    "section": "Alternative text",
+    "text": "Alternative text\nPictures and charts in any of the NHS-OA Community outputs including the website, blogs and books are expected to have alternative text or captions for greater accessibility. There are good practice guides like Webaim and Turing Way. Public bodies have a responsibility to produce accessible products and details are explained in Government pages like Digital accessibility and for specific analytical publications guidance from the Government Analysis Function.\nWe encourage corrections that need to be made for accessibility in all NHS-OA Community products and code and these can be through issues, pull requests or emailing the core development team. Where appropriate our courses include details on how to code for alternative text, for example in the Introduction to Quarto.",
+    "crumbs": [
+      "our_ways.qmd",
+      "Accessibility"
+    ]
+  }
+]
