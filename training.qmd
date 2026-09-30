@@ -232,7 +232,7 @@ install.packages(c("tidyverse", "knitr"))
 As well as the packages for the course you will also need to install the packages {usethis} and {here} installed run the following code:
 
 ``` r
-install.packages("usethis", "here")
+install.packages(c("usethis", "here"))
 usethis::use_course("nhs-oa-community/intro_quarto_data", destdir = here::here()) 
 ```
 
