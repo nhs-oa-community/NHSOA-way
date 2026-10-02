@@ -196,13 +196,9 @@ As standard all NHS-OA GitHub repository READMEs should include the following te
 
 You can install the current version of {name of package} from GitHub with:
 ```
-```{r}
-#| eval: false
-#| echo: fenced
-
-# install.packages("remotes")
+``` r
+install.packages("remotes")
 remotes::install_github("nhs-oa-community/name-of-package")
-
 ```
 
 ## Contributing
@@ -210,7 +206,7 @@ remotes::install_github("nhs-oa-community/name-of-package")
 Please see our 
 [guidance on how to contribute](https://tools.nhsoa.uk/contribution.html).
 
-This project is released with a Contributor [Code of Conduct](./CODE_OF_CONDUCT.md). 
+This project is released with a Contributor [Code of Conduct](./CODE_OF_CONDUCT.qmd). 
 By contributing to this project, you agree to abide by its terms.
 
 The simplest way to contribute is to raise an issue detailing the feature or 
@@ -224,7 +220,7 @@ you have experienced.
 
 To create a code of conduct file use the code from the {usethis} package:
 
-```
+``` r
 use_code_of_conduct(contact = "openanalytics.community")
 ```
 

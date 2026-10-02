@@ -15,7 +15,7 @@ Private Networks block sites from GitHub.
 Please see our 
 [guidance on how to contribute](https://tools.nhsrcommunity.com/contribution.html).
 
-This project is released with a Contributor [Code of Conduct](./CODE_OF_CONDUCT.md). 
+This project is released with a Contributor [Code of Conduct](./CODE_OF_CONDUCT.qmd). 
 By contributing to this project, you agree to abide by its terms.
 
 The simplest way to contribute is to raise an issue detailing the feature or 

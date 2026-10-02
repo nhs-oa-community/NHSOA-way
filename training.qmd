@@ -102,8 +102,7 @@ However, there are alternatives that are detailed in each course under the heade
 
 Installing packages will be part of the course but the instructions can be followed in the pre-work from these [course slide instructions](https://intro-r-rstudio.nhsoa.uk/session-packages.html#/packages):
 
-```{r}
-#| eval: false
+``` r
 install.packages('tidyverse')
 ```
 
@@ -113,12 +112,9 @@ Or using the RStudio program and the Packages tab in the bottom right panel whic
 
 As well as the packages for the course you will also need to install the packages {usethis} and {here} installed run the following code:
 
-```{r}
-#| eval: false
-
-# install.packages(c("usethis", "here"))
+``` r
+install.packages(c("usethis", "here"))
 usethis::use_course("nhs-oa-community/intro_r_data", destdir = here::here()) 
-
 ```
 
 ### Get data - Posit Cloud
@@ -167,10 +163,8 @@ install.packages(c("tidyverse", "NHSRdatasets", "pacman", "janitor", "zoo",
 
 As well as the packages for the course you will also need to install the packages {usethis} and {here} installed run the following code:
 
-```{r}
-#| eval: false
-
-# install.packages(c("usethis", "here"))
+``` r
+install.packages(c("usethis", "here"))
 usethis::use_course("nhs-oa-community/intermediate_R_training", destdir = here::here()) 
 ```
 
@@ -237,13 +231,9 @@ install.packages(c("tidyverse", "knitr"))
 
 As well as the packages for the course you will also need to install the packages {usethis} and {here} installed run the following code:
 
-```{r}
-#| eval: false
-
-# install.packages("usethis", "here")
-
+``` r
+install.packages(c("usethis", "here"))
 usethis::use_course("nhs-oa-community/intro_quarto_data", destdir = here::here()) 
-
 ```
 
 ### Get data - Posit Cloud
